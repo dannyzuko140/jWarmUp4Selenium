@@ -5,5 +5,5 @@ everyNth("Miracle", 2) → "Mrce"
 everyNth("abcdefg", 2) → "aceg"
 everyNth("abcdefg", 3) → "adg"
 
-comments placed here
+comments placed here,,,,...........
 */
